@@ -34,7 +34,7 @@ Ensure you have **Python 3.x** installed on your system.
     ```
 3. Install dependencies (if needed):
     ```bash
-    pip install -r requirements.txt
+    pip install bs4
     ```
 
 ## Usage

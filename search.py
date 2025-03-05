@@ -77,11 +77,17 @@ def print_version():
 
 
 if __name__ == "__main__":
-    print("\n"
-          "\n"
-          "卐 YogSec Search 🔍 | https://github.com/yogsec 卐"
-          "\n"
-          "\n")
+    print(r'''
+ __   __  _____   ______ _______ _______ _______      _______ _______ _______  ______ _______ _     _
+   \_/   |     | |  ____ |______ |______ |            |______ |______ |_____| |_____/ |       |_____|
+    |    |_____| |_____| ______| |______ |_____       ______| |______ |     | |    \_ |_____  |     |
+                                                                                                     
+
+GitHub - https://github.com/yogsec
+Donate - https://buymeacoffee.com/yogsec
+
+    
+    ''')
 
     if '-h' in sys.argv:
         print_help()

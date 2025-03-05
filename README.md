@@ -3,7 +3,7 @@
 ## Overview
 YogSec Search is a powerful and flexible search tool designed to fetch search results from Bing. It is specifically built for security researchers, digital investigators, and developers who need to gather URLs and website information efficiently. 
 
-![YogSec Search](https://github.com/yogsec/YogSec-Search/blob/main/Screenshot%20from%202025-02-20%2015-00-59.png?raw=true)
+![YogSec Search](https://github.com/yogsec/YogSec-Search/blob/main/Screenshot%20from%202025-03-05%2013-30-09.png?raw=true)
 
 ## Problem
 Performing manual searches through search engines is time-consuming and often returns unwanted URLs like tracking links from search platforms (e.g., `bing.com/ck/a`). Additionally, users may face duplicate results or may require a larger number of results, which is not easily accessible through a standard search.
